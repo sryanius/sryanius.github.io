@@ -8,5 +8,15 @@
         "33:DE:EF:A4:7D:9E:6D:F2:24:79:63:2E:BA:A0:9A:4F:A5:56:46:81:83:55:73:83:BB:6C:03:5D:37:D4:7A:05"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sryanius.sam",
+      "sha256_cert_fingerprints": [
+        "03:88:4A:6F:8B:8E:32:29:61:E0:16:AA:70:19:69:9F:AE:8A:D5:F2:57:51:CA:63:71:49:F5:DA:1E:E6:5E:94"
+      ]
+    }
   }
 ]
