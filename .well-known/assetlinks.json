@@ -18,5 +18,15 @@
         "03:88:4A:6F:8B:8E:32:29:61:E0:16:AA:70:19:69:9F:AE:8A:D5:F2:57:51:CA:63:71:49:F5:DA:1E:E6:5E:94"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.sryanius.town",
+      "sha256_cert_fingerprints": [
+        "A3:87:62:A0:87:D6:2A:C9:0B:C5:37:57:77:24:33:02:E8:8A:F1:A6:8D:C8:16:EA:44:1F:E4:C7:1F:74:09:8C"
+      ]
+    }
   }
 ]
